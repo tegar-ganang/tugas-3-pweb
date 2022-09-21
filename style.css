@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: #1a1f36;
+    box-sizing: border-box;
+    word-wrap: break-word;
+    font-family: 'Fredoka One';
+    background-color: #fff;
+  }
+
+h1 {
+    text-align: center;
+    letter-spacing: -1px;
+    font-size: 2em;
+}
+
+p {
+    text-align: center;
+    letter-spacing: -1px;
+    font-size: 1.5em;
+}
+
+body {
+    min-height: 100%;
+    background-color: #ffffff;
+}
+select, textarea {
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid rgb(239, 244, 220); 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical 
+  }
+  
+
+select:hover {
+    background-color: #f3ca12;
+  }
+  
+
+  .container {
+    border-radius: 5px;
+    background-color: #ffffff;
+    padding: 20px;
+  }
+  .formbg {
+    margin: 0px auto;
+    width: 100%;
+    max-width: 448px;
+    background: rgb(255, 255, 255);
+    border-radius: 4px;
+    box-shadow: rgba(178, 94, 5, 0.12) 7px 14px 28px 7px, rgba(156, 83, 4, 0.12) 3px 6px 12px 3px;
+}
+span {
+    line-height: 28px;
+    color: #1a1f36;
+}
